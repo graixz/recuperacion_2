@@ -1,0 +1,159 @@
+body{
+    border: 1px solid;
+    height: 130vh;
+    background-color: #363853;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.cam{
+    width: 20px;
+    height: 20px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.c1{
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.loo{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-image: url(../img/blessd.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px;
+}
+
+.nom{
+    color: white;
+}
+
+.edi{
+    width: 90px;
+    height: 30px;
+    border-radius: 12px;
+    background-color: #393939;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cir{
+    color: white;
+    font-size: 12px;
+}
+
+.c2{
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+}
+
+.c3{
+    height: 13rem;
+}
+
+.logos{
+    height: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.loog{
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tex{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.fle{
+    width: 60%;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.tam{
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+}
+
+#flee{
+    color: white;
+}
+
+.home{
+    height: 4rem;
+    margin: 5px;
+    border-radius: 12px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #4c4f7e;
+}
+
+.ho{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.lup{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.lib{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}

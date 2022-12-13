@@ -1,0 +1,257 @@
+body{
+    border: 1px solid;
+    height: 130vh;
+    background-color: #363853;
+}
+
+header{
+    height: 3rem;
+    display: flex;
+    align-items: center;
+}
+
+h4{
+    color: white;
+}
+.cam{
+    height: 30px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    color: white;
+}
+
+.campana{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    color: white;
+}
+
+.log{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    color: white;
+}
+
+.loog{
+    width: 20px;
+    height: 20px;
+    border-radius: 12px;
+    
+}
+
+.pick{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.view{
+    color: white;
+    width: 90px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgb(39, 39, 39);
+}
+
+.cartas{
+    height: 7rem;
+    color: white;
+    display: flex;
+    gap: 10px;
+}
+
+.tam{
+    width: 35px;
+    height: 35px;
+    border-radius: 12px;
+}
+
+.tra{
+    color: rgba(255, 255, 255, 0.541);
+}
+
+.chill{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../img/f1.jpg);
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.up{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../img/f2.jpg);
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.week{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../img/f3.jpg);
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+h2{
+    color: white;
+}
+
+.for{
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 110px;
+    margin: 10px;
+}
+
+.cartas2{
+    height: 5rem;
+    display: flex;
+    gap: 10px;
+}
+
+.your{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-image: url(../img/f4.jpg);
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.best{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-image: url(../img/f5.jpg);
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.popular{
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.logos{
+    height: 6.3rem;
+}
+
+.uno{
+    height: 3rem;
+    display: flex;
+    align-items: center;
+}
+
+.c1{
+    height: 160px;
+}
+
+
+
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cali{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.fle{
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+.c2{
+    height: 90px;
+}
+
+.home{
+    border: 1px solid;
+    height: 4rem;
+    margin: 5px;
+    border-radius: 12px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #4c4f7e;
+}
+
+.ho{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.lup{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.lib{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
